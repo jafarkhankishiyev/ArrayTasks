@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JafarKh\\Documents\\GitHub\\ArrayTasks\\ArrayTasks\\ArrayTasks\\ArrayTasks.csproj",
+      "projectUniqueName": "C:\\Users\\JafarKh\\Documents\\GitHub\\ArrayTasks\\ArrayTasks\\ArrayTasks.csproj",
       "projectName": "ArrayTasks",
-      "projectPath": "C:\\Users\\JafarKh\\Documents\\GitHub\\ArrayTasks\\ArrayTasks\\ArrayTasks\\ArrayTasks.csproj",
+      "projectPath": "C:\\Users\\JafarKh\\Documents\\GitHub\\ArrayTasks\\ArrayTasks\\ArrayTasks.csproj",
       "packagesPath": "C:\\Users\\JafarKh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JafarKh\\Documents\\GitHub\\ArrayTasks\\ArrayTasks\\ArrayTasks\\obj\\",
+      "outputPath": "C:\\Users\\JafarKh\\Documents\\GitHub\\ArrayTasks\\ArrayTasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JafarKh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,17 @@ C:\Users\JafarKh\Documents\GitHub\ArrayTasks\ArrayTasks\ArrayTasks\obj\Debug\net
 C:\Users\JafarKh\Documents\GitHub\ArrayTasks\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.pdb
 C:\Users\JafarKh\Documents\GitHub\ArrayTasks\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.genruntimeconfig.cache
 C:\Users\JafarKh\Documents\GitHub\ArrayTasks\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ref\ArrayTasks.dll
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.exe
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.deps.json
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.runtimeconfig.json
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.dll
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.pdb
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.AssemblyInfoInputs.cache
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.AssemblyInfo.cs
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.csproj.CoreCompileInputs.cache
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.dll
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\refint\ArrayTasks.dll
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.pdb
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.genruntimeconfig.cache
+C:\Users\JafarKh\Desktop\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ref\ArrayTasks.dll
